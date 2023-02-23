@@ -1,0 +1,6 @@
+{
+  "watch": ["src", "../client/dist", "../style/dist"],
+  "ext": "js",
+  "ignore": ["src/**/*.spec.ts", "node_modules"],
+  "exec": "node ./src/index.js"
+}
